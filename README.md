@@ -8,12 +8,13 @@
 
 
 <p><em>Backend Engineer at <a href="https://civicdatalab.in/team">CivicDataLab</a></em></p>
+<!--
 <br>
+<p> Passionate Software Developer, DevOps and Python Enthusiast, who is always looking for new challenges. </p>
+<p> Finds peace in Football⚽⚪ and cooking 🧑‍🍳. </p>
+-->
 
----
-### About ME
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🪓 Languages and Tools:</h3>
 <p>
   <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50" /></a>&nbsp; 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="50" /></a>&nbsp; 

@@ -20,8 +20,21 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="aws" height="50"/></a>
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" height="45"/></a>
 </p>
+
+<details>
+  <summary><b>📈 Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arcd7&show_icons=true&locale=en&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" alt="arcd7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arcd7&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dracula" alt="arcd7" />
+  <br />
+  <img height="180" width="180" src="https://media.giphy.com/media/Vz8cX98wN8jUwmeIBB/giphy.gif?cid=ecf05e47kccdr93uzbher22ntra9x5adbu42dqjo3ii4yiq1&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arcd7&theme=dracula" alt="arcd7" />
+  <img height="180" width="180" src="https://media.giphy.com/media/wyIkZm78vKsZCMx5tc/giphy.gif?cid=790b7611jhaa7km062pswtxn9j8qiwmhola5cbv3k3dr0k1e&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+  </details>
+
+
 <!--
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arcd7&show_icons=true&locale=en&layout=compact" alt="arcd7" /></p>

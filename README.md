@@ -10,3 +10,21 @@
 <p><em>Backend Engineer at <a href="https://civicdatalab.in/team">CivicDataLab</a></em>
 
 
+
+
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arcd7&show_icons=true&locale=en&layout=compact" alt="arcd7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arcd7&show_icons=true&locale=en" alt="arcd7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arcd7&" alt="arcd7" /></p>
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArcD7&theme=dracula" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArcD7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="144" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArcD7&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+-->
